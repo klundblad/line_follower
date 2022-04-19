@@ -4,4 +4,5 @@ and these are some designs to minimize the size of the electronics on board of o
 
 PCB's for EE 299 Robot (Photo resistors and PID control):
 This circuit utilizes basic, passive components to sense between light colors and dark colors in order
-to follow a path marked by dark lines
+to follow a path marked by dark lines. Motors on the robot are tuned via PID control from four passive 
+potentiometers
