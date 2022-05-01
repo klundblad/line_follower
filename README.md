@@ -6,6 +6,12 @@ PCB's for EE 299 Robot (Photo resistors and PID control):
 This circuit utilizes basic, passive components to sense between light colors and dark colors in order
 to follow a path marked by dark lines. Motors on the robot are tuned via PID control from four passive 
 potentiometers
+# V2
+Adding indicators and more output power pins. Sadly I do not know how to reconfigure the 3D symbol libraries in Kicad 6.0 >:(
+
+![pidpotspcb](https://user-images.githubusercontent.com/12982852/166138651-8010161b-b908-4a82-b0c4-ca2eb5fced35.png)
+![pcbnewagainfinalbleh](https://user-images.githubusercontent.com/12982852/166138654-35e754d1-d351-4563-9356-af009bc77895.png)
+![pcbnewfinaluwback](https://user-images.githubusercontent.com/12982852/166138668-237ab293-08eb-4261-9b23-a5e4398a4b6d.png)
 
 # V1
 Very sad day when I didn't route power to any of the components on the board :(
