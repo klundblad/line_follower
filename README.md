@@ -12,4 +12,5 @@ Very sad day when I didn't route power to any of the components on the board :(
 
 ![PXL_20220429_210412479 (2)](https://user-images.githubusercontent.com/12982852/166135874-4dfa9766-151f-4d3f-a9d9-95cdeea9905e.jpg)
 
-![PXL_20220429_210412479 (1)](https://user-images.githubusercontent.com/12982852/166135872-0508fae7-bf1a-4b4e-a88e-3a302b2e1d15.jpg)
+![PXL_20220429_210203418 (1)](https://user-images.githubusercontent.com/12982852/166135889-7cd48de2-6b54-4e8d-ae40-74ade34b28e5.jpg)
+
