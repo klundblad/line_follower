@@ -4,6 +4,6 @@ This is a basic light sensing circuit that sends voltages from 7 photoresistors 
 # GerberFiles
 This folder contains all the needed files for fabrication. If ordering on JLCPCB, compress this folder into a .zip and upload directly
 
-# pcb layout is much cooler than the final product :D
-![Kicadphotodiode](https://user-images.githubusercontent.com/12982852/163948277-c1583310-a984-42dc-ac76-70bfa658d0e6.png)
-![kicadphotoresistor](https://user-images.githubusercontent.com/12982852/163948294-2e843635-a591-4ec2-b7e6-83fce7df092e.png)
+# Schematic of circuit
+<img width="760" alt="layout_circuit" src="https://user-images.githubusercontent.com/12982852/165988949-c304e099-435d-4874-8a5c-47d6a0ecb598.PNG">
+<img width="591" alt="photoresistor" src="https://user-images.githubusercontent.com/12982852/165989494-63d2cc6c-a347-4fe0-bd14-5bd07fe54fd8.png">
